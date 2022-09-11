@@ -1,0 +1,6 @@
+/Users/andrejlogvinov/Desktop/c#_3_semestr/Logvinov_153505_Lab1/Logvinov_153505_Lab1/bin/Debug/Logvinov_153505_Lab1.exe
+/Users/andrejlogvinov/Desktop/c#_3_semestr/Logvinov_153505_Lab1/Logvinov_153505_Lab1/bin/Debug/Logvinov_153505_Lab1.pdb
+/Users/andrejlogvinov/Desktop/c#_3_semestr/Logvinov_153505_Lab1/Logvinov_153505_Lab1/obj/Debug/Logvinov_153505_Lab1.csprojAssemblyReference.cache
+/Users/andrejlogvinov/Desktop/c#_3_semestr/Logvinov_153505_Lab1/Logvinov_153505_Lab1/obj/Debug/Logvinov_153505_Lab1.csproj.CoreCompileInputs.cache
+/Users/andrejlogvinov/Desktop/c#_3_semestr/Logvinov_153505_Lab1/Logvinov_153505_Lab1/obj/Debug/Logvinov_153505_Lab1.exe
+/Users/andrejlogvinov/Desktop/c#_3_semestr/Logvinov_153505_Lab1/Logvinov_153505_Lab1/obj/Debug/Logvinov_153505_Lab1.pdb
